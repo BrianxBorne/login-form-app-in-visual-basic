@@ -1,0 +1,18 @@
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\bin\Debug\net8.0-windows\LOGIN FORM.exe
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\bin\Debug\net8.0-windows\LOGIN FORM.deps.json
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\bin\Debug\net8.0-windows\LOGIN FORM.runtimeconfig.json
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\bin\Debug\net8.0-windows\LOGIN FORM.dll
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\bin\Debug\net8.0-windows\LOGIN FORM.pdb
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\obj\Debug\net8.0-windows\LOGIN_FORM.Form1.resources
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\obj\Debug\net8.0-windows\LOGIN_FORM.YourProfile.resources
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\obj\Debug\net8.0-windows\LOGIN FORM.vbproj.GenerateResource.cache
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\obj\Debug\net8.0-windows\LOGIN FORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\obj\Debug\net8.0-windows\LOGIN FORM.AssemblyInfoInputs.cache
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\obj\Debug\net8.0-windows\LOGIN FORM.AssemblyInfo.vb
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\obj\Debug\net8.0-windows\LOGIN FORM.vbproj.CoreCompileInputs.cache
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\obj\Debug\net8.0-windows\LOGIN FORM.dll
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\obj\Debug\net8.0-windows\refint\LOGIN FORM.dll
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\obj\Debug\net8.0-windows\LOGIN FORM.pdb
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\obj\Debug\net8.0-windows\LOGIN FORM.genruntimeconfig.cache
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\obj\Debug\net8.0-windows\ref\LOGIN FORM.dll
+C:\Users\ERIC NDIVO\brian projects\LOGIN FORM\obj\Debug\net8.0-windows\LOGIN_FORM.Resources.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LOGIN FORM/1.0.0": {
+        "runtime": {
+          "LOGIN FORM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LOGIN FORM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
